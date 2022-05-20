@@ -14,7 +14,7 @@ create a working model of a high-end elevator with RFID permission verification 
 
 🧠 I'm currently learning .NET and Entity Framework.
 ## 🛠 Skills
-C#, .NET, C, C++, SQL, Linux
+C#, .NET, C, C++, SQL, Linux, Git
 
 Arduino, AVR, PLC
 
